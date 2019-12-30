@@ -38,6 +38,6 @@ The program is separated into three sections: the mancala class, a node class, a
 
 **[9]** Ramanujan, Raghuram, Ashish Sabharwal, and Bart Selman. "On adversarial search spaces and sampling-based planning." In Twentieth International Conference on Automated Planning and Scheduling. 2010.  
 
-**[10]** ROVARIS, GABRIELE. "Design of artificial intelligence for mancala games." (2017).  
+**[10]** Rovaris, Gabriele. "Design of artificial intelligence for mancala games." (2017).  
 
 **[11]** Weinstein, Ari, Michael L. Littman, and Sergiu Goschin. "Rollout-based game-tree search outprunes traditional alpha-beta." In European Workshop on Reinforcement Learning, pp. 155-167. 2013.  
